@@ -1,4 +1,4 @@
-# Device Tree For Asus ZenFone Max Plus (M2) ZB634KL
+# Ferramentas e tutoriais para o Asus ZenFone Max Plus (M2) ZB634KL
 
 O ASUS ZenFone Max Plus (M2) (codinome "A001D") é smartphone intermediário da ASUS. Lançado exclusivamente no Brasil em Março de 2019.
 
