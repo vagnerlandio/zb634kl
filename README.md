@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Device Tree For Asus ZenFone Max Plus (M2) ZB634KL
 
-You can use the [editor on GitHub](https://github.com/vagnerlandio/zb634kl/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+O ASUS ZenFone Max Plus (M2) (codinome "A001D") é smartphone intermediário da ASUS. Lançado exclusivamente no Brasil em Março de 2019.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Especificações e dados técnicos
 
-### Markdown
+| Dispositivo             | ASUS ZenFone Max Plus (M2)                                 |
+| ----------------------- | :--------------------------------------------------------- |
+| Chipset                 | Qualcomm Snapdragon SIP1 1,8 GHz, 2 MB Cache               |
+| CPU                     | 1.8Ghz Octa-Core ARM Cortex-A53                            |
+| GPU                     | Qualcomm Adreno 506                                        |
+| Memória                 | 3GB LPDDR3                                                 |
+| Versão de fábrica 	  | 8.1.0                                                      |
+| Armazenamento           | 32GB eMMC 5.1                                              |
+| MicroSD                 | Até 2 TB (dedicado)                                        |
+| Bateria                 | Li-Po 4000 mAh não removível                               |
+| Dimensões               | 159.2 x 76.2 x 8.49 mm                                     |
+| Tela                    | 1080 x 2280 (19:9), 6.26 pol                               |
+| Câmera trazeira 1       | 12 MP (f/1.8, 1/2.9", 1.25μm)                              |
+| Câmera trazeira 2       | 5MP (f/2.4, 1.12µm), sensor de profundidade                |
+| Câmera frontal          | 8 MP, Selfie-light                                         |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Imagem do dispositivo
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vagnerlandio/zb634kl/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![ASUS ZenFone Max Plus (M2)](zb634kl.png)
